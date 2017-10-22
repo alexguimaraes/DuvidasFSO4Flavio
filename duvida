@@ -1,0 +1,6 @@
+private PApplet p;
+	
+	public void setup(PApplet parent) {
+    //diferença para p = parent?
+    this.p = parent;
+   
